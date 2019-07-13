@@ -6,6 +6,7 @@
     "GetuiConfigure": "node node_modules/react-native-getui/GetuiConfiguration.js",
     "GetuiConfigure": "node node_modules/react-native-getui/GetuiConfiguration.js",
     "GetuiConfigure": "node node_modules/react-native-getui/GetuiConfiguration.js",
+    "GetuiConfigure": "node node_modules/react-native-getui/GetuiConfiguration.js",
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest"
   },
