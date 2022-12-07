@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "expo": "^24.0.2",
-    "qs": "^6.5.1",
+    "qs": "^6.5.3",
     "react": "16.0.0",
     "react-native": "0.51.1",
     "xregexp": "^4.1.1"
